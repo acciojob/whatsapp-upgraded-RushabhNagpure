@@ -23,7 +23,7 @@ public class Group {
         this.name=name;
    }
 
-   public void setNumberOfParticipants( int participants){
+   public void setNumberOfParticipants( int numberOfParticipants){
         this.numberOfParticipants=numberOfParticipants;
    }
 }
